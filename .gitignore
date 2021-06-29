@@ -1,5 +1,7 @@
 # sphinx build folder
 _build
+*.buildinfo
+objects.inv
 
 # Compiled source #
 ###################
