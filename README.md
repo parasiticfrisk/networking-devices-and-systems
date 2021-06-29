@@ -38,4 +38,4 @@ This course employs hands-on laboratory activities to explore computer networks,
 #### Notice
 By viewing and/or interacting with these files as a current or future student of computer science, computer electronics, computer information systems, or related field of study, you agree to the terms of the [Academic Honesty Policy].
 
-[Academic Honestly Policy]:AcademicHonestyPolicy
+[Academic Honesty Policy]:AcademicHonestyPolicy
