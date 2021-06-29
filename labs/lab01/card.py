@@ -1,7 +1,18 @@
+#!/usr/bin/env python3
+#
+# Author: August Frisk
+# Course: CmpEt 269 - Spring 2018
+# Assign: Lab 01
+# File: card.py
+#
+# Description: A model of a deck of cards that can form the basis for building
+#              digital card game programs such as Poker or Gin Rummy.
+#
+
 import random
 
-class Card:
 
+class Card:
     def __init__(self, suit, number):
         self._suit = suit
         self._number = number
@@ -26,7 +37,7 @@ class Card:
 
     @number.setter
     def number(self, number):
-        valid = [str(n) for n in range(2,11)] + ["J", "Q", "K", "A"]
+        valid = [str(n) for n in range(2, 11)] + ["J", "Q", "K", "A"]
         if number in valid:
             self._number = number
         else:
@@ -34,15 +45,14 @@ class Card:
 
 
 class Deck:
-
     def __init__(self):
         self._cards = []
         self.populate()
 
     def populate(self):
         suits = ["hearts", "clubs", "diamonds", "spades"]
-        numbers = [str(n) for n in range(2,11)] + ["J", "Q", "K", "A"]
-        self._cards = [ Card(s, n) for s in suits for n in numbers ]
+        numbers = [str(n) for n in range(2, 11)] + ["J", "Q", "K", "A"]
+        self._cards = [Card(s, n) for s in suits for n in numbers]
 
     def shuffle(self):
         random.shuffle(self._cards)
@@ -57,6 +67,7 @@ class Deck:
     def __repr__(self):
         cards_in_deck = len(self._cards)
         return "Deck of " + str(cards_in_deck) + " cards"
-        
+
+
 deck = Deck()
 print(deck)
