@@ -23,10 +23,12 @@ This course employs hands-on laboratory activities to explore computer networks,
 | :-------------------------- |
 | [Deck of Cards]             |
 | [Project Documentation]     |
+| [Brute-Force Enigma]        |
 
 <!-- lab quick links -->
 [Deck of Cards]:labs/lab01
 [Project Documentation]:labs/lab02
+[Brute-Force Enigma]:labs/lab03
 
 <br>
 
