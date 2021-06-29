@@ -3,9 +3,6 @@ _build
 *.buildinfo
 objects.inv
 
-# build documentation will be duplicated when the website is generated
-sphinx_project/*.rst
-
 # Compiled source #
 ###################
 *.com
