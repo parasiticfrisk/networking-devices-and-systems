@@ -9,8 +9,6 @@
 #              digital card game programs such as Poker or Gin Rummy.
 #
 
-import random
-
 
 class Card:
     def __init__(self, suit, number):
