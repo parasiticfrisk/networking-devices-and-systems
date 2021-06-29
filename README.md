@@ -19,7 +19,14 @@ This course employs hands-on laboratory activities to explore computer networks,
 
 <br>
 
+| <h3>Lab</h3>            |
+| :---------------------- |
+| [Deck of Cards]         |
+| [Project Documentation] |
 
+<!-- lab quick links -->
+[Deck of Cards]:labs/lab01
+[Project Documentation]:labs/lab02
 
 <br>
 
