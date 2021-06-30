@@ -6,8 +6,10 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-py-enigma = "*"
 dispy = "*"
+nmap = "*"
+psutil = "*"
+unicornhat = "*"
 
 [requirements]
 python_version = "3.6"
