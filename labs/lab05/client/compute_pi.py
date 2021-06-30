@@ -11,10 +11,6 @@
 #
 #              This code uses Dispy on OctaPi in standard form.
 #
-# Dispy: Giridhar Pemmasani
-#        "dispy: Distributed and parallel Computing with/for Python"
-#        http://dispy.sourceforge.net, 2016
-#
 # Reference: Arndt & Haenel, "Pi - Unleashed", Springer-Verlag,
 #            ISBN 978-3-540-66572-4, 2006,
 #            English translation Catriona and David Lischka, pp. 39-41

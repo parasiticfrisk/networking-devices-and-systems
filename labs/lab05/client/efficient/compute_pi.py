@@ -2,8 +2,8 @@
 #
 # Author: August Frisk
 # Course: CmpEt 269 - Spring 2018
-# Assign: Lab 03
-# File: compute_pi_efficiently.py
+# Assign: Lab 05
+# File: compute_pi.py
 #
 # Description: Computes the value of Pi using the 'dartboard' algorithm — a
 #              Monte Carlo method using many trials to estimate the area of a
@@ -12,10 +12,6 @@
 #              This code uses Dispy on OctaPi using the recommended method for
 #              managing jobs efficiently. For more information, visit the Dispy
 #              website.
-#
-# Dispy: Giridhar Pemmasani
-#        "dispy: Distributed and parallel Computing with/for Python"
-#        http://dispy.sourceforge.net, 2016
 #
 # Reference: Arndt & Haenel, "Pi - Unleashed", Springer-Verlag,
 #            ISBN 978-3-540-66572-4, 2006,
