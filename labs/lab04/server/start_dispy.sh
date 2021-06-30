@@ -2,7 +2,7 @@
 #
 # Author: August Frisk
 # Course: CmpEt 269 - Spring 2018
-# Assign: Lab 03
+# Assign: Lab 04
 # File: start_dispy.sh
 # 
 
