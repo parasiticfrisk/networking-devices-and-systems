@@ -1,6 +1,6 @@
 <div align="center">
 
-# Networking Devices & Systems (CMPET 269)
+# Networking Devices & Systems: Labs
 
 ![school-badge]
 [![license-badge]][LICENSE]
@@ -10,12 +10,7 @@
 <!-- badge info -->
 [school-badge]:https://img.shields.io/badge/MJC-CSci%20270-silver?labelColor=royalblue&style=for-the-badge
 [license-badge]:https://img.shields.io/github/license/parasiticfrisk/cmpet269?color=informational&&style=for-the-badge
-[LICENSE]:LICENSE "MIT License"
-
-<br>
-
-## Course Description:
-This course employs hands-on laboratory activities to explore computer networks, network devices, and the "Internet of Things".
+[LICENSE]:../LICENSE "MIT License"
 
 <br>
 
@@ -30,13 +25,13 @@ This course employs hands-on laboratory activities to explore computer networks,
 | OctaPi: [Brute-Force Enigma]     | Launch a brute-force crpt attack on Enigma                     |
 
 <!-- lab quick links -->
-[Deck of Cards]:labs/lab01
-[Code Testing]:labs/lab02
-[Project Documentation]:labs/lab03
-[Build an OctaPi]:labs/lab04
-[Calculate Pi]:labs/lab05
-[Public Key Crptography]:labs/lab06
-[Brute-Force Enigma]:labs/lab07
+[Deck of Cards]:lab01
+[Code Testing]:lab02
+[Project Documentation]:lab03
+[Build an OctaPi]:lab04
+[Calculate Pi]:lab05
+[Public Key Crptography]:lab06
+[Brute-Force Enigma]:lab07
 
 <br>
 
@@ -44,4 +39,4 @@ This course employs hands-on laboratory activities to explore computer networks,
 #### Notice
 By viewing and/or interacting with these files as a current or future student of computer science, computer electronics, computer information systems, or related field of study, you agree to the terms of the [Academic Honesty Policy].
 
-[Academic Honesty Policy]:AcademicHonestyPolicy
+[Academic Honesty Policy]:../AcademicHonestyPolicy
