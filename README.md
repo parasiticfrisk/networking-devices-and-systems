@@ -19,7 +19,7 @@ This course employs hands-on laboratory activities to explore computer networks,
 
 <br>
 
-| Lab                              | Goals                                                          |
+| Lab>                             | Goals                                                          |
 | :------------------------------- | :------------------------------------------------------------- |
 | [Deck of Cards]                  | Create a resuable object oriented model of a deck of cards     |
 | [Code Testing]                   | Test code and detect bugs                                      |
@@ -32,7 +32,6 @@ This course employs hands-on laboratory activities to explore computer networks,
 <br>
 
 ---
-#### Notice
 By viewing and/or interacting with these files as a current or future student of computer science, computer electronics, computer information systems, or related field of study, you agree to the terms of the [Academic Honesty Policy].
 
 <!-- quick links -->
