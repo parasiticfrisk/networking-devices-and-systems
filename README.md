@@ -19,7 +19,7 @@ This course employs hands-on laboratory activities to explore computer networks,
 
 <br>
 
-| <h3 align="center">Lab</h3>      | <h3 align="center">Goals</h3>                                  |
+| Lab                              | Goals                                                          |
 | :------------------------------- | :------------------------------------------------------------- |
 | [Deck of Cards]                  | Create a resuable object oriented model of a deck of cards     |
 | [Code Testing]                   | Test code and detect bugs                                      |
@@ -29,7 +29,13 @@ This course employs hands-on laboratory activities to explore computer networks,
 | OctaPi: [Public Key Crptography] | Learn about the concepts behind public key cryptography        |
 | OctaPi: [Brute-Force Enigma]     | Launch a brute-force crpt attack on Enigma                     |
 
-<!-- lab quick links -->
+<br>
+
+---
+#### Notice
+By viewing and/or interacting with these files as a current or future student of computer science, computer electronics, computer information systems, or related field of study, you agree to the terms of the [Academic Honesty Policy].
+
+<!-- quick links -->
 [Deck of Cards]:labs/lab01
 [Code Testing]:labs/lab02
 [Project Documentation]:labs/lab03
@@ -37,11 +43,4 @@ This course employs hands-on laboratory activities to explore computer networks,
 [Calculate Pi]:labs/lab05
 [Public Key Crptography]:labs/lab06
 [Brute-Force Enigma]:labs/lab07
-
-<br>
-
----
-#### Notice
-By viewing and/or interacting with these files as a current or future student of computer science, computer electronics, computer information systems, or related field of study, you agree to the terms of the [Academic Honesty Policy].
-
-[Academic Honesty Policy]:AcademicHonestyPolicy
+[Academic Honesty Policy]:academic_honesty_policy
