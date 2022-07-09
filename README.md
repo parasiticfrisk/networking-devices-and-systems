@@ -31,8 +31,8 @@ By viewing and/or interacting with these files as a current or future student of
 
 <!-- quick links -->
 <!-- badge info -->
-[school-badge]:https://img.shields.io/badge/MJC-CSci%20270-ced2e8?labelColor=001e60&style=for-the-badge
-[license-badge]:https://img.shields.io/github/license/parasiticfrisk/cmpet269?color=informational&&style=for-the-badge
+[school-badge]:https://img.shields.io/badge/MJC-CMPET%20269-ced2e8?labelColor=001e60&style=for-the-badge
+[license-badge]:https://img.shields.io/github/license/parasiticfrisk/networking-devices-and-systems?color=informational&&style=for-the-badge
 [LICENSE]:LICENSE "view license"
 <!-- labs -->
 [Deck of Cards]:labs/lab01 "view on github"
