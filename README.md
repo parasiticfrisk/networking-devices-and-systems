@@ -4,6 +4,7 @@
 
 ![school-badge]
 [![license-badge]][LICENSE]
+![Maintenance](https://img.shields.io/maintenance/no/2018?style=for-the-badge)
 
 </div>
 
