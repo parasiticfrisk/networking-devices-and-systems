@@ -1,10 +1,13 @@
 <div align="center">
 
-# Networking Devices & Systems (CMPET 269)
+# Networking Devices and Systems (CMPET 269)
 
-![school-badge]
-[![license-badge]][LICENSE]
-![Maintenance](https://img.shields.io/maintenance/no/2018?style=for-the-badge)
+![Course badge]
+[![License badge]][Repository license]
+![Raspberry Pi badge](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=RaspberryPi&style=flat-square)
+![Python badge](https://img.shields.io/badge/Python-fff?logo=Python&style=flat-square)
+![Bash badge](https://img.shields.io/badge/Bash-000?logo=GNUBash&style=flat-square)
+![Maintenance badge](https://img.shields.io/maintenance/no/2018?style=flat-square)
 
 </div>
 
@@ -32,16 +35,16 @@ By viewing and/or interacting with these files as a current or future student of
 
 <!-- quick links -->
 <!-- badge info -->
-[school-badge]:https://img.shields.io/badge/MJC-CMPET%20269-ced2e8?labelColor=001e60&style=for-the-badge
-[license-badge]:https://img.shields.io/github/license/parasiticfrisk/networking-devices-and-systems?color=informational&&style=for-the-badge
-[LICENSE]:LICENSE "view license"
+[Course badge]:https://img.shields.io/badge/Modesto_Junior_College-CMPET_269_-ced2e8?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEUAVqUpaqb///8AVqUpaqY/dKZTfqb////YSWwEAAAAA3RSTlMAAAD6dsTeAAAAPElEQVR42m2LhQEAIAgEafaf2G45kw+gh1jgTRPYNxwJdV4nEq5ZAuGeP4EJ+KAICGxm8+gnlPmuVIEeMjBRBCJIofRkAAAAAElFTkSuQmCC&labelColor=001e60&style=flat-square
+[License badge]:https://img.shields.io/github/license/parasiticfrisk/networking-devices-and-systems?color=informational&&style=flat-square
+[Repository license]:LICENSE
 <!-- labs -->
-[Deck of Cards]:labs/lab01 "view on github"
-[Code Testing]:labs/lab02 "view on github"
-[Project Documentation]:labs/lab03 "view on github"
-[Build an OctaPi]:labs/lab04 "view on github"
-[Calculate Pi]:labs/lab05 "view on github"
-[Public Key Crptography]:labs/lab06 "view on github"
-[Brute-Force Enigma]:labs/lab07 "view on github"
+[Deck of Cards]:labs/lab01
+[Code Testing]:labs/lab02
+[Project Documentation]:labs/lab03
+[Build an OctaPi]:labs/lab04
+[Calculate Pi]:labs/lab05
+[Public Key Crptography]:labs/lab06
+[Brute-Force Enigma]:labs/lab07
 <!-- misc -->
-[Academic Honesty Policy]:academic_honesty_policy "view policy"
+[Academic Honesty Policy]:academic_honesty_policy
